@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/885
     wikipedia: http://en.wikipedia.org/wiki/Ellen_Glasgow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18286#The-Miller-Of-Old-Church
 gutenberg_issued: '2006-04-30'
 gutenberg_type: Text
 identifiers:
